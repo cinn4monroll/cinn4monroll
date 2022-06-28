@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cinn4monroll
+- 👀 Estou interessada em aprender novas linguagens de programação
+- 🌱 estou estudando no momento o basico de python
