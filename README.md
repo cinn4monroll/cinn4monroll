@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @cinn4monroll
+- ✂️  Meu email de contato é gabrielly.portela.souza@escola.pr.gov.br
 - 👀 Estou interessada em aprender novas linguagens de programação
 - 🌱 estou estudando no momento o basico de python
